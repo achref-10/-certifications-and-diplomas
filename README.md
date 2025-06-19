@@ -6,7 +6,7 @@ This directory contains scanned and verified copies of my academic diploma and p
 
 - 🏫 **Electrical Engineering Diploma**  
   National School of Engineers of Tunis (ENSIT), 2024  
-  [📄 View Diploma](diploma_engineering_ENSIT.pdf)
+  [📄 [View Diploma](https://github.com/achref-10/-certifications-and-diplomas/blob/41e60a60e136f51e70756eefc854abdffeaab2a3/diploma.jpg)](diploma_engineering_ENSIT.pdf)
 
 ## 📜 Certifications
 
