@@ -9,6 +9,8 @@ This directory contains scanned and verified copies of my academic diploma and p
   [📄 [View Diploma](https://github.com/achref-10/-certifications-and-diplomas/blob/41e60a60e136f51e70756eefc854abdffeaab2a3/diploma.jpg)](diploma_engineering_ENSIT.pdf)
 
 ## 📜 Certifications
+- 🧠 **Embedded Systems Development** – microship  
+  [📄 View Certificate](certification_embedded_systems_udemy.pdf)
 
 - 🧠 **Embedded Systems Development** – Udemy  
   [📄 View Certificate](certification_embedded_systems_udemy.pdf)
